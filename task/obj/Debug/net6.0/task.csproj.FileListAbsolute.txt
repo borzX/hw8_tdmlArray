@@ -1,0 +1,15 @@
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\bin\Debug\net6.0\task.exe
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\bin\Debug\net6.0\task.deps.json
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\bin\Debug\net6.0\task.dll
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\bin\Debug\net6.0\task.pdb
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\obj\Debug\net6.0\task.dll
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\obj\Debug\net6.0\refint\task.dll
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\obj\Debug\net6.0\task.pdb
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\Users\borz1985\OneDrive\Рабочий стол\net\hw8_tdmlArray\hw8_tdmlArray\task\obj\Debug\net6.0\ref\task.dll
